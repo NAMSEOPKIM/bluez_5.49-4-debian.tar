@@ -75,5 +75,3 @@ int main(int argc, char **argv)
 }
 
 
-
-√‚√≥: http://sleep365.tistory.com/75 [Sleep]
